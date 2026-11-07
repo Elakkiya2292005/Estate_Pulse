@@ -1,0 +1,6 @@
+{
+  "name": "EstatePulse - Real Estate Management",
+  "description": "Comprehensive MERN full-stack real estate management platform with role-based workflows for Admins, Agents, and Customers, featuring listing management, enquiry tracking, visit scheduling, deals pipeline, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
